@@ -23,7 +23,7 @@
 most used social media</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/fir3flies7/" target="_blank"><img src="https://img.shields.io/badge/-adeleeeeyyyy_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fir3flies7/" target="_blank"><img src="https://img.shields.io/badge/-Fir3fliesss_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
 <br>
@@ -42,5 +42,5 @@ most used social media</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fir3fliesss"><img src="https://github-profile-trophy.vercel.app/?username=adeleeeeyyyy&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/Fir3fliesss"><img src="https://github-profile-trophy.vercel.app/?username=Fir3fliesss&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
