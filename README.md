@@ -2,7 +2,7 @@
 <h3 align="center">I'm {Web & Flutter} Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fir3fliesss&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Fir3fliesss)
-<img center src="https://media4.giphy.com/media/qXAPczD1eZ6n7dRp4v/giphy.gif?cid=6c09b952vdtv1h7jh37vwaxs74gcr0pytx0ezhp4earoqu3q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<div align="center"><img src="https://media4.giphy.com/media/qXAPczD1eZ6n7dRp4v/giphy.gif?cid=6c09b952vdtv1h7jh37vwaxs74gcr0pytx0ezhp4earoqu3q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></div>
 <br><br>
 
 <div>
