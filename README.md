@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, AI/ML, Website Development**
 <a>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MzMzOTIsIm5iZiI6MTcyMzczMzA5MiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzODYtODczNjA5NDgtN2I5Mi00ODUyLTkxZjctZmY2MmRkYjhmY2Q0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDE0NDQ1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyZGYyOWQzOGVhZDQ2YmRjZDYyYzNmNmRhZjliMWJjMGQwMTM0ZWI0NDM3NGVlMjgzM2QxNjM4OWUyMWVjZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MnP0ScgF57zsiOuj26jsq_xO7wLZgBGuTIKCLOhPyPY">
   </a>
 
 - 📫 How to reach me **gheraldymoses5@gmail.com**
