@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gherady</h1>
 <h3 align="center">I'm {Web & Flutter} Developer</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fir3fliesss&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Fir3fliesss)
+<div align="center">[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fir3fliesss&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Fir3fliesss)</div>
 <div align="center"><img src="https://media4.giphy.com/media/qXAPczD1eZ6n7dRp4v/giphy.gif?cid=6c09b952vdtv1h7jh37vwaxs74gcr0pytx0ezhp4earoqu3q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></div>
 <br><br>
 
@@ -38,7 +38,7 @@ most used social media</p>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=SynchronizesTeams" height="150" alt="languages graph"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Fir3fliesss" height="150" alt="languages graph"/>
 </p>
 
 <p align="center">
