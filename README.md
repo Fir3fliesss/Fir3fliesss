@@ -1,46 +1,67 @@
-<h1 align="center">Hi 👋, I'm Gherady</h1>
-<h3 align="center">I'm {Web & Flutter} Developer</h3>
+<h2 align="left">Hi 👋! My name is Gheraldy and I'm a Student Softwaren Engineer, from My Mother</h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fir3fliesss&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Fir3fliesss)
-<div align="center"><img src="https://media4.giphy.com/media/qXAPczD1eZ6n7dRp4v/giphy.gif?cid=6c09b952vdtv1h7jh37vwaxs74gcr0pytx0ezhp4earoqu3q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></div>
-<br><br>
+###
 
-<div>
-  <h2 align="center">  ~ ABOUT ME ~  </h2>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-- 🌱 I’m currently learning **Flutter, AI/ML, Website Development**
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/fir3flies7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="gheraldymoses5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gheraldy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MzMzOTIsIm5iZiI6MTcyMzczMzA5MiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzODYtODczNjA5NDgtN2I5Mi00ODUyLTkxZjctZmY2MmRkYjhmY2Q0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDE0NDQ1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyZGYyOWQzOGVhZDQ2YmRjZDYyYzNmNmRhZjliMWJjMGQwMTM0ZWI0NDM3NGVlMjgzM2QxNjM4OWUyMWVjZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MnP0ScgF57zsiOuj26jsq_xO7wLZgBGuTIKCLOhPyPY">
-  </div>
-
-- 📫 How to reach me **gheraldymoses5@gmail.com**
-
-<br>
-<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
-
-<p align="center">Here are some my <br>
-most used social media</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/fir3flies7/" target="_blank"><img src="https://img.shields.io/badge/-Fir3fliesss_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+  <img src="https://profile-counter.glitch.me/Fir3fliesss/count.svg?"  />
 </div>
-<br>
-<h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
-<p align="center">
-  <a href="https://github.com/Fir3fliesss"><img src="https://github-readme-stats.vercel.app/api?username=Fir3fliesss&theme=tokyonight&show_icons=true" /></a>
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/Fir3fliesss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fir3fliesss&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
+<img src="https://raw.githubusercontent.com/Fir3fliesss/Fir3fliesss/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=Fir3fliesss" height="150" alt="languages graph"/>
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/Fir3fliesss"><img src="https://github-profile-trophy.vercel.app/?username=Fir3fliesss&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fir3fliesss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fir3fliesss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Fir3fliesss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Fir3fliesss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fir3fliesss&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
