@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋! My name is Gheraldy and I'm a Junior Software Engineer, from My Mother
 
+![](https://komarev.com/ghpvc/?username=Fir3fliesss&color=dc143c&style=for-the-badge)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fir3flies7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gheraldy) 
